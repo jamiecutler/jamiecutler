@@ -1,5 +1,9 @@
 <h1>Hi, I'm Jamie! 
 
+<h2> 📁 Resume <h2>
+
+- [Resume](https://docs.google.com/document/d/1Q2qE3NIc7WX2MmssiyFhvJEbPOvZiHht-OqEwatVm2U/edit?usp=drive_link)
+
 <h2> 📄 Certifications</h2>
 
 - [CompTIA Network+](https://drive.google.com/file/d/1_DSHfbbB-aU0BtozbjzDafTg5KUMN8xS/view?usp=drive_link)
