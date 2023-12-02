@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jamie! 
 
-<h2> 📁 Resume <h2>
+<h2> 📁 Resume<h2>
 
 - [Resume](https://docs.google.com/document/d/1Q2qE3NIc7WX2MmssiyFhvJEbPOvZiHht-OqEwatVm2U/edit?usp=drive_link)
 
